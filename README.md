@@ -1,6 +1,8 @@
 
 ## Python深度学习与项目实战（周北著）书籍所有源代码
 
+![书籍封面](https://github.com/sagebei/deep_learning_in_action_with_python/blob/main/images/cover.jpg)
+
 ### 代码使用须知
 
 1. 所有代码文件格式均为.ipynb，推荐使用Jupyter Notebook编辑器打开、编辑、运行文件。

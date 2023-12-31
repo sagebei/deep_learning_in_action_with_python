@@ -1,7 +1,7 @@
 
 ## Python深度学习与项目实战（周北著）书籍所有源代码
 
-![书籍封面](https://github.com/sagebei/deep_learning_in_action_with_python/blob/main/images/cover.jpg)
+<img src="https://github.com/sagebei/deep_learning_in_action_with_python/tree/main" alt="cover page" width="300" height="auto">
 
 ### 代码使用须知
 
@@ -22,7 +22,6 @@
 - 第10章：深度强化学习
 
 ### 购买链接
-- 京东：
-- 淘宝：
-- 当当：
-- 异步社区：https://www.epubit.com/bookDetails?id=UBbf19f26d4bf8
+- [京东](https://item.jd.com/13097524.html)
+- [当当网](https://product.dangdang.com/29196896.html)
+- [异步社区](https://www.epubit.com/bookDetails?id=UBbf19f26d4bf8)

@@ -3,6 +3,9 @@
 
 <img src="https://github.com/sagebei/deep_learning_in_action_with_python/blob/main/images/cover.jpg" alt="cover page" width="150" height="auto">
 
+### 简介
+本书由人民邮电出版社出版。本书全方位解读深度学习五大主流与前沿技术，理论与实战紧密结合，详解深度学习模型在计算机视觉、自然语言处理、金融、强化学习等众多领域的新进展和应用。
+
 ### 代码使用须知
 
 1. 所有代码文件格式均为.ipynb，推荐使用Jupyter Notebook编辑器打开、编辑、运行文件。

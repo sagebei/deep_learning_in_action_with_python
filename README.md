@@ -1,7 +1,7 @@
 
 ## Python深度学习与项目实战（周北著）书籍所有源代码
 
-<img src="https://github.com/sagebei/deep_learning_in_action_with_python/blob/main/images/cover.jpg" alt="cover page" width="300" height="auto">
+<img src="https://github.com/sagebei/deep_learning_in_action_with_python/blob/main/images/cover.jpg" alt="cover page" width="100" height="auto">
 
 ### 代码使用须知
 

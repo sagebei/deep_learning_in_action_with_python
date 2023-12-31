@@ -1,3 +1,4 @@
+
 ##《Python深度学习与项目实战》（周北著）书籍所有源代码
 
 ### 代码使用须知
@@ -23,5 +24,3 @@
 - 淘宝：
 - 当当：
 - 异步社区：https://www.epubit.com/bookDetails?id=UBbf19f26d4bf8
-
-所有代码文件格式均为.ipynb，推荐使用Jupyter Notebook编辑器打开、编辑、运行文件。

@@ -23,7 +23,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/sagebei/deep_learning_in_action_with_python?style=social)](https://github.com/sagebei/deep_learning_in_action_with_python/stargazers)
+[![Star on GitHub](https://img.shields.io/badge/Star_on-GitHub-181717?logo=github&logoColor=white)](https://github.com/sagebei/deep_learning_in_action_with_python)
 
 <br>
 
